@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/joannetemp-poc/clientlibs"/>
+    <filter root="/apps/joannetemp-poc/components"/>
+    <filter root="/apps/joannetemp-poc/i18n"/>
+    <filter root="/apps/msm/joannetemp-poc_blueprint" mode="merge"/>
+</workspaceFilter>

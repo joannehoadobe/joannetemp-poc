@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/joannetemp-poc" mode="merge"/>
+    <filter root="/content/joannetemp-poc" mode="merge"/>
+    <filter root="/content/dam/joannetemp-poc/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/joannetemp-poc" mode="merge"/>
+</workspaceFilter>
